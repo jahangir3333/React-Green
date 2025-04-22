@@ -1,0 +1,47 @@
+.logo{
+    display: flex;
+    align-items: center;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.nav ul{
+    list-style-type: none;
+    display: flex;
+}
+
+.nav ul li a{
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+    padding:10px;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 300px;
+    margin-right:300px;
+}
+
+.link-btn{
+    display: flex;
+    align-items: center;
+}
+
+.nav .btn button{
+    padding-left:35px;
+    padding-right:35px;
+    padding-top:10px;
+    padding-bottom:10px;
+    background-color: greenyellow;
+    border: 1px solid greenyellow;
+
+}
+
+.nav .logo img{
+    margin-right: 10px;
+    border-radius: 50%;
+    height: 80px;
+}

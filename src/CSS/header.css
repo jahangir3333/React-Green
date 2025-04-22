@@ -1,0 +1,13 @@
+.header{
+    background-image: url('../IMAGES/header2.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% auto;
+    height: 800px;
+}
+
+.container{
+    padding-left: 250px;
+    padding-top:100px;
+    color:white;
+}

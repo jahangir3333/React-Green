@@ -1,0 +1,10 @@
+.form{
+    position: absolute;
+    z-index: 1;
+    border: 1px solid blue;
+    padding:40px;
+    top:50%;
+    left:40%;
+    background-color: red;
+    
+}
